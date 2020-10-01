@@ -1,0 +1,8 @@
+C:\Users\MSI\source\repos\Hwid\Hwid\bin\Debug\Hwid.exe.config
+C:\Users\MSI\source\repos\Hwid\Hwid\bin\Debug\Hwid.exe
+C:\Users\MSI\source\repos\Hwid\Hwid\bin\Debug\Hwid.pdb
+C:\Users\MSI\source\repos\Hwid\Hwid\obj\Debug\Hwid.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Hwid\Hwid\obj\Debug\Hwid.exe
+C:\Users\MSI\source\repos\Hwid\Hwid\obj\Debug\Hwid.pdb
+C:\Users\MSI\source\repos\Hwid\Hwid\obj\Debug\Hwid.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Hwid\Hwid\obj\Debug\Hwid.csproj.Fody.CopyLocal.cache
